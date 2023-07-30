@@ -16,11 +16,11 @@
                         <!-- Header Right -->
                         <div class="header-right">
                             <!-- Start Popup Search Wrap -->
-                            <div class="popup-search-wrap">
+                            <!-- <div class="popup-search-wrap">
                                 <button class="btn-search-click" @click="$emit('toggleSearch')">
                                     <i class="fa fa-search"></i>
                                 </button>
-                            </div>
+                            </div> -->
                             <!-- End Popup Search Wrap -->
 
                             <!-- Start Hamberger -->

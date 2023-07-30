@@ -42,11 +42,11 @@
                                         <div class="thumbnail video-with-thumb">
                                             <img src="/img/slider/presentation/home-presentation-image-03.png" alt="multi-purpose">
                                             <!-- Start Single Popup -->
-                                            <div class="video-btn position--center">
+                                            <!-- <div class="video-btn position--center">
                                                 <a class="play__btn" href="https://www.youtube.com/watch?v=9No-FiEInLA" target="_blank">
                                                     <div class="video-icon third-icon"></div>
                                                 </a>
-                                            </div>
+                                            </div> -->
                                             <!-- End Single Popup -->
                                         </div>
                                     </div>
@@ -237,7 +237,7 @@
                                             <div class="row">
                                                 <div class="col-lg-12">
                                                     <div class="brook-section-title mb--55 mb_sm--30 mb_md--30">
-                                                        <h3 class="heading heading-h3 text-white">We collaborate with ambitious  something great together.</h3>
+                                                        <h3 class="heading heading-h3 text-white">Contact us to learn more.</h3>
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6 col-md-6 col-12">
