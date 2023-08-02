@@ -71,7 +71,7 @@
                                             <div class="row">
                                                 <div class="col-lg-12">
                                                     <div class="brook-section-title text-start">
-                                                        <h2 class="heading heading-h2 second-font text-white">List of features</h2>
+                                                        <h2 class="heading heading-h2 second-font text-white">Why we're different</h2>
                                                     </div>
                                                 </div>
 
@@ -79,7 +79,7 @@
                                                 <div class="col-lg-6 d-none d-md-block mt--50">
                                                     <div class="single-motive-speach">
                                                         <div class="icon">
-                                                            <i class="ion-ios-infinite theme-color"></i>
+                                                            <i class="ion-pricetag theme-color"></i>
                                                         </div>
                                                         <div class="content text-start">
                                                             <h4 class="text-white">Up front pricing</h4>
@@ -93,11 +93,11 @@
                                                 <div class="col-lg-6 d-none d-md-block mt--50">
                                                     <div class="single-motive-speach">
                                                         <div class="icon">
-                                                            <i class="ion-ios-baseball-outline theme-color"></i>
+                                                            <i class="ion-ios-time theme-color"></i>
                                                         </div>
                                                         <div class="content text-start">
-                                                            <h4 class="text-white">SEO marketing</h4>
-                                                            <p class="bk_pra heading-font text-white">Our SEO approach is to focus on growing brand visibility in organic search engine results.</p>
+                                                            <h4 class="text-white">No guesswork</h4>
+                                                            <p class="bk_pra heading-font text-white">We know you don't have time to scroll through pages of templates, that's why we only offer 2 to make things simple.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -107,11 +107,11 @@
                                                 <div class="col-lg-6 mt--50">
                                                     <div class="single-motive-speach">
                                                         <div class="icon">
-                                                            <i class="ion-pinpoint theme-color"></i>
+                                                            <i class="ion-calendar theme-color"></i>
                                                         </div>
                                                         <div class="content text-start">
-                                                            <h4 class="text-white">Resource use</h4>
-                                                            <p class="bk_pra heading-font text-white">We conduct the marketing of   products & services using latest digital technologies.</p>
+                                                            <h4 class="text-white">Monthly Updates</h4>
+                                                            <p class="bk_pra heading-font text-white">Let us help update your site! Weekly or monthly specials? No problem, for a small monthly fee we will keep your content up to date.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -121,11 +121,11 @@
                                                 <div class="col-lg-6 mt--50">
                                                     <div class="single-motive-speach">
                                                         <div class="icon">
-                                                            <i class="ion-ios-infinite theme-color"></i>
+                                                            <i class="ion-locked theme-color"></i>
                                                         </div>
                                                         <div class="content text-start">
-                                                            <h4 class="text-white">Digital marketing</h4>
-                                                            <p class="bk_pra heading-font text-white">We successfully implemented  numerous UI/UX projects for both global & local clients.</p>
+                                                            <h4 class="text-white">Security</h4>
+                                                            <p class="bk_pra heading-font text-white">We will help make sure you security certificate is up to date so your customers feel safe.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -150,74 +150,41 @@
                                             <div class="row">
                                                 <div class="col-lg-12">
                                                     <div class="skill-content">
-                                                        <h2 class="heading heading-h2 theme-color">We're here to meet your small business needs!</h2>
+                                                        <h2 class="heading heading-h2 theme-color">Here to meet your small business needs!</h2>
                                                     </div>
                                                 </div>
-                                                <div class="col-xl-2 d-none d-xl-block">
+                                                <!-- <div class="col-xl-2 d-none d-xl-block">
                                                     <div class="what-do mt--70 mt_lg--30 mt_md--30 mt_sm--20">
                                                         <div class="basic-separator line-3"></div>
                                                     </div>
-                                                </div>
+                                                </div> -->
                                                 <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 d-none d-md-block">
                                                     <div class="what-do mt--70 mt_lg--30 mt_md--30 mt_sm--20">
                                                         <div class="content">
-                                                            <h5 class="heading heading-h5">Fresh ideas</h5>
+                                                            <h5 class="heading heading-h5">Low Cost</h5>
                                                             <div class="bkseparator--20"></div>
-                                                            <p class="bk_pra">Brook presents your services with flexible, convenient and multipurpose layouts. You can select your favorite layouts & elements for particular projects with unlimited customization possibilities.</p>
+                                                            <p class="bk_pra">For $1,500* we will deliver you a mobile friendly, fresh design ready to serve your customers</p>
+                                                            <p><i>$800 up front, non-refundable payment</i></p>
+                                                        </div>
+                                                        <div class="content">
+                                                            <h5 class="heading heading-h5">SEO</h5>
+                                                            <div class="bkseparator--20"></div>
+                                                            <p class="bk_pra">Let us help you with your SEO strategy and get your site on the top search engines and in front of your customers.</p>
                                                         </div>
                                                     </div>
                                                 </div>
+                                     
                                                 <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 offset-xl-1">
                                                     <div class="what-do mt--70 mt_lg--30 mt_md--30 mt_sm--20">
                                                         <div class="content">
-                                                            <h5 class="heading heading-h5">Unique designs</h5>
+                                                            <h5 class="heading heading-h5">Limited template options to save you time</h5>
                                                             <div class="bkseparator--20"></div>
-                                                            <p class="bk_pra">Pixel-perfect replication of the designers is intended for both front-end & back-end developers to build their pages with greater comfort thanks to the higher customizability as well as flexibility.</p>
+                                                            <p class="bk_pra">Running a small business is time consuming. You don't want to have to scroll through pages and pages of templates. 
+                                                                Pick one of our two ready made templates and get back to running your small business.</p>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="col-lg-10 col-xl-10 offset-xl-2 mt--80 mt_md--30 mt_sm--20">
-                                                    <div class="brook-skill">
-                                                        <!-- Start Single Progress Charts -->
-                                                        <div class="progress-charts">
-                                                            <h6 class="heading heading-h6">UI/UX</h6>
-                                                            <div class="progress">
-                                                                <div class="progress-bar fadeInLeft custom-color--2"
-                                                                    data-wow-duration="0.5s" data-wow-delay=".3s" role="progressbar"
-                                                                    style="width: 85%" aria-valuenow="85" aria-valuemin="0"
-                                                                    aria-valuemax="100"><span class="percent-label">85%</span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- End Single Progress Charts -->
-
-                                                        <!-- Start Single Progress Charts -->
-                                                        <div class="progress-charts mt--45">
-                                                            <h6 class="heading heading-h6">Ideas</h6>
-                                                            <div class="progress">
-                                                                <div class="progress-bar fadeInLeft custom-color--3"
-                                                                    data-wow-duration="0.7s" data-wow-delay=".5s" role="progressbar"
-                                                                    style="width: 85%" aria-valuenow="85" aria-valuemin="0"
-                                                                    aria-valuemax="100"><span class="percent-label">85%</span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- End Single Progress Charts -->
-
-                                                        <!-- Start Single Progress Charts -->
-                                                        <div class="progress-charts mt--45">
-                                                            <h6 class="heading heading-h6">Marketing</h6>
-                                                            <div class="progress">
-                                                                <div class="progress-bar fadeInLeft custom-color--4"
-                                                                    data-wow-duration="0.8s" data-wow-delay=".8s" role="progressbar"
-                                                                    style="width: 90%" aria-valuenow="90" aria-valuemin="0"
-                                                                    aria-valuemax="100"><span class="percent-label">90%</span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- End Single Progress Charts -->
-                                                    </div>
-                                                </div>
+                                              
                                             </div>
                                         </div>
                                     </div>
