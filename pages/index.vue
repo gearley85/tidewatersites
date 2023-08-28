@@ -35,7 +35,8 @@
                                             <div class="title mt--40 mb--50">
                                                 <h2 class="heading heading-h2">Tidewater Sites wants to help your small business grow!</h2>
                                             </div>
-                                            <p class="bk_pra">We are ready to create your first website, or bring your existing site up to date. We believe in clean & mobile-friendly designs.</p>
+                                            <p class="bk_pra">We are ready to create your first website, update your existing site, or if you need help getting found online, 
+                                                we are here to help!</p>
                                         </div>
                                     </div>
                                     <div class="col-md-6 d-none d-md-block">
@@ -71,7 +72,7 @@
                                             <div class="row">
                                                 <div class="col-lg-12">
                                                     <div class="brook-section-title text-start">
-                                                        <h2 class="heading heading-h2 second-font text-white">Why we're different</h2>
+                                                        <h2 class="heading heading-h2 second-font text-white">What we do</h2>
                                                     </div>
                                                 </div>
 
@@ -83,7 +84,8 @@
                                                         </div>
                                                         <div class="content text-start">
                                                             <h4 class="text-white">Up front pricing</h4>
-                                                            <p class="bk_pra heading-font text-white">We know every penny counts in your small business!</p>
+                                                            <p class="bk_pra heading-font text-white">We know every penny counts in your small business! 
+                                                                Our price is low to help keep money in your small business and get back to helping your customers.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -97,7 +99,7 @@
                                                         </div>
                                                         <div class="content text-start">
                                                             <h4 class="text-white">No guesswork</h4>
-                                                            <p class="bk_pra heading-font text-white">We know you don't have time to scroll through pages of templates, that's why we only offer 2 to make things simple.</p>
+                                                            <p class="bk_pra heading-font text-white">We know your time is limited, we are here to help your small business thrive in the digital world.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -110,8 +112,8 @@
                                                             <i class="ion-calendar theme-color"></i>
                                                         </div>
                                                         <div class="content text-start">
-                                                            <h4 class="text-white">Monthly Updates</h4>
-                                                            <p class="bk_pra heading-font text-white">Let us help update your site! Weekly or monthly specials? No problem, for a small monthly fee we will keep your content up to date.</p>
+                                                            <h4 class="text-white">Virtual Meetings</h4>
+                                                            <p class="bk_pra heading-font text-white">We meet with you virtually, before or after hours so you can focus on doing what you love.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -163,8 +165,7 @@
                                                         <div class="content">
                                                             <h5 class="heading heading-h5">Low Cost</h5>
                                                             <div class="bkseparator--20"></div>
-                                                            <p class="bk_pra">For $1,500* we will deliver you a mobile friendly, fresh design ready to serve your customers</p>
-                                                            <p><i>$800 up front, non-refundable payment</i></p>
+                                                            <p class="bk_pra">Contact us today to let us give you a custom quote to move your business forward!</p>
                                                         </div>
                                                         <div class="content">
                                                             <h5 class="heading heading-h5">SEO</h5>
